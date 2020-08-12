@@ -1,0 +1,3 @@
+*.lock
+secret_key.txt
+__pycache__/*
